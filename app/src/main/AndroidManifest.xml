@@ -10,8 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Animation_Element_Transition">
         <activity
-            android:name=".MainActivity"
+            android:name=".Screen02"
             android:exported="true" />
+        <activity android:name=".Screen01">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
