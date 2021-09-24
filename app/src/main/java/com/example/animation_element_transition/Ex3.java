@@ -16,8 +16,7 @@ public class Ex3 extends AppCompatActivity {
         findViewById(R.id.btnBack).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(getApplicationContext(), Ex2.class));
-                overridePendingTransition(R.anim.enter, R.anim.exit);
+                onBackPressed();
             }
         });
     }
