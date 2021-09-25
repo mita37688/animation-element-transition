@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/TanCB/Nam IV/HKI/Lap trinh thiet bi di dong nang cao/ThucHanh/Animation_Element_Transition/app/src/main/res/drawable/corner.xml" value="0.2703125" />
         <entry key="..\:/TanCB/Nam IV/HKI/Lap trinh thiet bi di dong nang cao/ThucHanh/Animation_Element_Transition/app/src/main/res/layout/Screen01.xml" value="0.25416666666666665" />
         <entry key="..\:/TanCB/Nam IV/HKI/Lap trinh thiet bi di dong nang cao/ThucHanh/Animation_Element_Transition/app/src/main/res/layout/activity_ex2.xml" value="0.25416666666666665" />
         <entry key="..\:/TanCB/Nam IV/HKI/Lap trinh thiet bi di dong nang cao/ThucHanh/Animation_Element_Transition/app/src/main/res/layout/activity_ex3.xml" value="0.24010416666666667" />
@@ -10,10 +11,11 @@
         <entry key="..\:/TanCB/Nam IV/HKI/Lap trinh thiet bi di dong nang cao/ThucHanh/Animation_Element_Transition/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/TanCB/Nam IV/HKI/Lap trinh thiet bi di dong nang cao/ThucHanh/Animation_Element_Transition/app/src/main/res/layout/activity_screen01.xml" value="0.25416666666666665" />
         <entry key="..\:/TanCB/Nam IV/HKI/Lap trinh thiet bi di dong nang cao/ThucHanh/Animation_Element_Transition/app/src/main/res/layout/activity_screen02.xml" value="0.25416666666666665" />
+        <entry key="..\:/TanCB/Nam IV/HKI/Lap trinh thiet bi di dong nang cao/ThucHanh/Animation_Element_Transition/app/src/main/res/layout/corner.xml" value="0.25416666666666665" />
         <entry key="..\:/TanCB/Nam IV/HKI/Lap trinh thiet bi di dong nang cao/ThucHanh/Animation_Element_Transition/app/src/main/res/layout/rv_music.xml" value="0.264" />
         <entry key="..\:/TanCB/Nam IV/HKI/Lap trinh thiet bi di dong nang cao/ThucHanh/Animation_Element_Transition/app/src/main/res/layout/screen01.xml" value="0.25416666666666665" />
         <entry key="..\:/TanCB/Nam IV/HKI/Lap trinh thiet bi di dong nang cao/ThucHanh/Animation_Element_Transition/app/src/main/res/layout/screen02.xml" value="0.21203703703703702" />
-        <entry key="..\:/TanCB/Nam IV/HKI/Lap trinh thiet bi di dong nang cao/ThucHanh/Animation_Element_Transition/app/src/main/res/layout/screen03.xml" value="0.4" />
+        <entry key="..\:/TanCB/Nam IV/HKI/Lap trinh thiet bi di dong nang cao/ThucHanh/Animation_Element_Transition/app/src/main/res/layout/screen03.xml" value="0.264" />
       </map>
     </option>
   </component>
