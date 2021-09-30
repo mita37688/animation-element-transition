@@ -11,7 +11,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class Screen02 extends AppCompatActivity {
 
-    ImageView img_taylor, img_music;
+    ImageView img_taylor, img_music, img_taylor2;
     TextView tvSongSinger;
 
     @Override
