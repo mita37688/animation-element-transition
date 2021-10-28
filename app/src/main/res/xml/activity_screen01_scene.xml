@@ -10,7 +10,7 @@
        <KeyFrameSet></KeyFrameSet>
         <OnSwipe
             motion:touchAnchorId="@+id/img_taylor"
-            motion:dragDirection="dragStart" />
+            motion:dragDirection="dragDown" />
     </Transition>
 
     <ConstraintSet android:id="@+id/start">
